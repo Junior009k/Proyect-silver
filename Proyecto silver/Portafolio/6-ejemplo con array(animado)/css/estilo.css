@@ -1,0 +1,47 @@
+/*creamos nuestro contenedor, id y nombre estaran dentro del contenedor*/
+/*editaremos con el navegador*/
+body
+{
+	Background:#00f;
+	color:#0f0;
+}
+
+.Contenedor
+{
+	Background:#04056a;
+	color:#0f0;
+	font-size:24px;
+	width:700px;
+	height:500px;
+	border:#fff 3px solid;
+}
+
+.number,.Boton
+{
+	Background:#ddd;
+	color:#000;
+	width:125px;
+	height:25px;
+	margin-top:5px;
+	border:#0f0 3px solid;
+}
+
+.id,.nombre
+{
+	Background:#070;
+	color:#fff;
+	border:#fff 3px solid;
+}
+/*esta es nuestra respuesta vamos a modificar su posicion
+por el momento solo me interesa left y right
+que es lo mas lejos que quiero que llegue Margin-left=500, provaremos*/
+.res
+{	
+	
+	width:150px;
+	height:50px;
+	display:flex;
+	flex-direction:column;
+}
+
+

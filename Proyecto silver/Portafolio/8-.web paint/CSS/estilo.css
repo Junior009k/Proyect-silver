@@ -1,0 +1,46 @@
+body,div
+{
+	margin:0px;
+	padding:0px;
+}
+body
+{
+background:#ede
+}
+canvas
+{
+	margin:40px;
+	border:1px solid #000;
+}
+
+.editor
+{
+	margin-top:50px;
+	background:#fff;
+	width:fit-content;
+	margin:auto;
+}
+
+h1
+{
+	text-align:center;
+	color:#333;
+	font-family:sans-serif;
+	margin-top:50px;
+}
+.editor div
+{
+	background:#000;
+}
+
+#lw
+{
+	width:400px;
+	height:20px;
+}
+
+#color
+{
+	width:50px;
+	height:40px;
+}

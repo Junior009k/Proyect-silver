@@ -1,0 +1,2 @@
+Mi nombre es junior rafael aquino de Leon 
+y veremos un ejemplo simple de fetch

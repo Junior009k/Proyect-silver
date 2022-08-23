@@ -1,0 +1,66 @@
+/*ya tenemos nuestro dise;o ahora ponerlo guapo
+la imagen la haremos un poco mas pequeña*/
+body
+{
+	background:rgba(106, 5, 5, 0.899);
+}
+img
+{
+	width:145px;
+	height:145px;
+}
+.turno
+{
+	font-size: 24px;
+}
+.titulo,.turno
+{
+	color:#fbae00;
+}
+.grid-container
+{
+	display:grid;
+	grid-template-columns:150px 150px 150px;
+	grid-template-rows:150px 150px 150px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+	
+}
+
+.hijo1
+{
+	border-right:#000 solid 3px; 
+	border-bottom:#000 solid 3px;
+}
+.hijo2
+{
+	border-bottom:#000 solid 3px;
+}
+.hijo3
+{
+	border-left:#000 solid 3px; 
+	border-bottom:#000 solid 3px;
+}
+.hijo4
+{
+	border-right:#000 solid 3px; 
+}
+.hijo6
+{
+	border-left:#000 solid 3px; 
+}
+
+.hijo7
+{
+	border-right:#000 solid 3px; 
+	border-top:#000 solid 3px;
+}
+.hijo8
+{
+	border-top:#000 solid 3px;
+}
+.hijo9
+{
+	border-left:#000 solid 3px; 
+	border-top:#000 solid 3px;
+}

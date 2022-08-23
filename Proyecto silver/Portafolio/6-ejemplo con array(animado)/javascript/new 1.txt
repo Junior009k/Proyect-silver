@@ -1,0 +1,28 @@
+vamos hacer una animacion sencilla utilizando arrays 
+
+este programa lo que hace es que dependiendo lo array este lo crea.
+
+lo que vamos hacer es modificar la entrada para que sea un valor random
+vamos a probart el math.floor, la cantidad maxima de array que quiero es 50 y minima es 
+
+
+lo esta generando , ahora lo que haremos es que genere el array automaticamente
+
+
+pero ya no necesitaremos el boton haremos que este evento suceda cuando la pagina inicie
+
+listo ahora cada vez que actualicemos tendremos array, ahora lo que haremos es hacer 
+que el container se ajuste automaticamente.
+
+pero que pasa si esto se pone del lado derecho a izquierda
+o que tal  si esto es totalmente inpredecible.
+
+vamos hacer para finalizar que los array salgan de cualquier posicion y pueden salir en forma de columnas y filas
+
+ya para terminar le damos una animacion.
+
+lo primero es que el array se capaz de salir de cualquier posicion
+
+lo importante de este experimento es que aprenda que esto es cuestion de pulir y tener creatividad , asi quedo, un arreglo que puedo crearse dinamicamente
+
+las posibilidades son infinitas

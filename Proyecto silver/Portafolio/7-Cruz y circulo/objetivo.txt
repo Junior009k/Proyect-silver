@@ -1,0 +1,10 @@
+Vamos a realizar un programa que nos permita jugar cruz y circulo, lo primero es hacer la base.
+
+vamos a ponerlo en grillas
+
+Una vez realizado la logica ahora falrta darle estilo
+
+En vez de mostrar esos cuadro rojo y azul asi que para esto crearemos png para esto con paint
+
+
+Esta fue la logica espero le halla gustado

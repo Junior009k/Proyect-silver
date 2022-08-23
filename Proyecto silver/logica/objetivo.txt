@@ -1,0 +1,102 @@
+Este es la introduccion de este proyecto, de esta plantilla comenzaremos nuestro trabajo.
+
+
+lo que voy hacer podria hacerlo perfectamente con canvas, pero aun no se trabjar tan bien por eso decidi hacerlo con grid 
+a lo mejor sea mi ultimo proyecto realizado en grid y el proximo ya sea canvas 
+
+el chico siempre estaba comiendo jajaja
+
+
+lo siguiente que vamos hacer es trabaja con evento 
+
+TOCA GENERALIZAR LA FORMULA
+
+para hacer esto de saber donde esta 
+
+crearemos una variable que guarde su posicion
+
+esto lo dejaremos en stop mientras tanto , inplementare un menu sencillo y en un futuro lo modificare
+
+generalizar(COMPLETADO)
+PORQUE GENERALICE LA FORMULA?
+SI QUIERE CAMBIA EL TAMANO DEL ENTORNO SOLO DEBO CAMBIAR 8 VALORES 
+
+TAMANO DE X Y Y EN css
+TAMNO DE X Y Y EN JAVASCRIPT 
+Y EL LIMITE DE  X(+ Y -) Y Y(+ Y -)
+
+en vez de que sea un cuadro 3x3, lo hare de 9x9
+
+TAMANO DE X Y Y EN css LISTO
+TAMNO DE X Y Y EN JAVASCRIPT LISTO
+Y EL LIMITE DE  X() Y Y()
+
+agregar un 
+Sprite(COMPLETADO)
+//vamos hacer que link tenga un poco de vida
+antes de agregar un modal hagamos que el menu tenga un poco de vida 
+ya para terminar, vamos hacer que no se pueda meter por la zona verdey como hacemos eso,
+de la siguiente manera 
+agregar un modal (FRACASO)
+//Sin modal vamos hacer algo mejor 
+//vamos a destruir la escena 1 y crear la escena2 siendo 
+Escena 1
+Entorno 
+Escena 2 
+sub menu 1, 2 ,3 ,4 
+cambiamos de idea  
+es un zelda asi que hagamos que  este cree diferente diferentes entornos
+y cada entorno sea una sub escena 
+
+antes de hacer esto puliremos el codigo
+----------------------------------
+crearemos estos eventos usando el mismo 
+
+vamos hacer que pase de escena a sub escena 1
+pero antes que se pueda salir (Funciona)
+vamos hacer que cada entorno sea diferente(Funciona) 
+
+
+crearemos una sub escena programacion web
+
+crearemos una sub escena programacion familia c
+crearemos una sub escena programacion java
+crearemos una sub escena Ruby, unity y python
+
+hacer un menu (COMPLETADO)
+hacer validaciones (PENDIENTE)
+en este paso mejoraremos el menu y lo pondremos mas bonitos
+y por ultimo agregar un sonido bien chido(PENDIENTE) 
+
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+arreglar bug
+las letras se invierte al cruzar con ella 
+al cruzar a otra zona link no aparece 
+
+hacer actualizacion 
+agrega todos los programas 
+y agrega musica 
+y mas animaciones 
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+
+primero agregaremos todas las opciones
+hoy vamos agregar una version para moviles y otras cositas
+------------------------------------------------------------
+Este es un proyecto que estoy realizando simulamos un juego de zelda 
+esta totalmente funcional, el problema es la version de moviles 
+
+ya que no usa teclado para esto decidi crear un pad 
+
+con este pad tratare de simular una accion del teclado 
+
+asi que vamos a trabajar
+
+nunca se cumplira la condicion
+
+vamos a probar el escenario con fotografia o podria decir con sus nuevas texturas
+
+no hay xd
+
+es facil solucionarlo
+
+eso es todo por ahora, espero le guste y que halla podido aprender

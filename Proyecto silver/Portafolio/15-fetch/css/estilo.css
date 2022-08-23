@@ -1,0 +1,30 @@
+/*PRUEBA PARA VER SI LO RELACIONE BIEN CON EL HTML*/
+
+BODY
+{
+    background-color: aqua;
+    text-align-last: center;
+}
+
+.titulo
+{
+    font-size: 18px;
+    color: #000;
+    background-color: rgb(204, 255, 0);
+    border-radius: 50%;
+    display: table-caption;
+    width: 300px;
+    height: 26px;
+    -webkit-text-stroke-width: thick;
+}
+
+.datosCargado
+{
+    color: #F11;
+    background-color: black;
+    border: #fff solid 3px;
+    width: 400px;
+    height: 400px;
+    font-size: 25px;
+    display: inline-block;
+}
