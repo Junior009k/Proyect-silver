@@ -1,0 +1,203 @@
+/*---------------------------------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------------------------------*/
+a
+{
+	text-decoration: none;
+	color:currentColor;
+}
+Body
+{
+	Background-color:#440303;
+	Background-image:url(img/red.jpg) ;
+	font:  sans-serif;
+}
+.parrafo
+{
+	background-color:#222;
+}
+H1
+{
+	color:#FFF;
+	text-align:cehter;
+	justify-content:center;
+}
+H2
+{
+	color:#FFF;
+}
+H3
+{
+	color:#F99;
+}
+H4
+{
+	color:#ff9900;
+}
+ h4 br
+ {
+	background-color:#FFF; 
+ }
+
+
+/*---------------------------------------titulo------------------------------------------------------------------*/
+.container
+{
+	padding:6px;
+	margin:40px 140px;
+}
+.caja1
+{
+
+	color:#fff;
+	Text-Align:center;
+	font-size:75px;
+	margin:0px;	
+}
+/*--------------------------------------------Menu-------------------------------------------------------------*/
+.Menu
+{
+	display:flex;
+}
+.cajas
+{
+	Background-color:#fff;
+	font-size: 24px;
+	width: 400px;
+    height: auto;
+	padding:15px;
+	border: 5px solid rgb(0, 0, 0);
+	border-radius: 10px;
+}
+.cajas:hover
+{
+	color:#fff;
+	Background-color:#F00;
+	padding:15px;
+	border: 5px solid red;
+}
+/*--------------------------------------------Contenido-------------------------------------------------------------*/
+.Flex-container
+{
+	display:flex;	
+}
+
+.contenido1,.contenido2
+{
+	border-radius: 25px;
+	padding:250px 50px;
+	margin-left:50px;
+	
+}
+
+.desarrollo
+{
+	background-color:#222;
+	border-radius: 25px;
+	padding:0px 50px;
+	margin-top:250px;
+	margin-left:50px;
+
+}
+
+.imagen
+{
+	border-radius: 25px;
+	height: 1500px;
+	width: 200px;
+	object-fit: cover;	
+}
+/*------------------------------------------------Footer---------------------------------------------------------*/
+.pie
+{
+	color:#00bfff;
+	text-align:center;
+}
+/*--------------------------------------------------vista desdel mvoil o -------------------------------------------------------*/
+/*---------------------------------------------------------------------------------------------------------*/
+@media only screen and (max-width: 900px){
+.menu
+{
+	flex-direction:column;
+	background-image: url(img/menu.png);
+	width:50px;
+	height:50px;
+
+}
+.cajas
+{
+	Background-color:transparent;
+	color:transparent;
+	margin-left:200px; ;
+	font-size: 16px;
+	width: 100px;
+    height: 5px;
+	padding:15px;
+	border: none;
+	border-radius: 10px;
+	mix-blend-mode:lighten;
+}
+/*
+.cajas
+{
+	
+	font-size: 16px;
+    width: 100px;
+    height: 5px;
+}*/
+  
+.container
+{
+	padding:6px;
+	margin:40px 140px;
+}
+.caja1
+{
+	Text-Align: left;
+    font-size: 32px;
+    margin-left: -150px;
+	
+}
+ .Flex-container
+{
+	color:black;
+	flex-direction: column;
+		
+}
+.contenido1,.contenido2
+{
+	padding:50px;
+	margin-left: -50px;
+}
+
+.desarrollo
+{
+	margin-top: 0px;
+	margin-left: -50px;
+}
+/*------------------------------------------------*/
+H1
+{
+	font-size: 16px;
+}
+H2
+{
+	font-size: 14px;
+}
+H3,H4, h4 br
+{
+	font-size: 12px;
+}
+
+ /*------------------------------------------------------/-*-*/
+.imagen
+{
+	height: 300px;
+	width: 300px;	
+}
+.pie
+{
+	color:#00bfff;
+	text-align:center;
+}
+}

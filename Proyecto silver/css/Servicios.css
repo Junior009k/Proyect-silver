@@ -1,0 +1,51 @@
+Body
+{
+	Background-color:#0e111c;
+	background-image: url(img/Service.png);
+	font:  sans-serif;
+}
+.cajas:hover
+{
+	color:#fff;
+	Background-color:#48e;
+	padding:15px;
+	border: 5px solid red;
+}
+.contenido
+{
+	display: grid;
+    margin-top: 150px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 300px 300px 300px;
+	grid-row-gap:25px;
+	grid-column-gap:25px;
+	/*grid-column-gap:5px;*/
+
+}
+.item
+{
+	color:#FFF;
+	border-radius: 25px;
+}
+
+imagenS, img.imagenS
+{
+	border-radius: 25px;
+	width: 100%;
+	height:100%;
+}
+
+.parrafoS
+{
+	font-size: 28px;
+
+}
+/*--------------------------------------------------vista desdel mvoil-------------------------------------*/
+@media only screen and (max-width: 900px)
+{
+	.parrafoS
+{
+	font-size: 20px;
+
+}
+}

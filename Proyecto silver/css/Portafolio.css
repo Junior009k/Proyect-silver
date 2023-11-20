@@ -1,0 +1,89 @@
+body
+{
+	Background-color:#455e11;
+}
+.cajas:hover
+{
+	Background-color:#259f0b;
+}
+
+.a
+{
+  color: currentcolor;
+  text-decoration: none;
+}
+
+.carpeta
+{
+  text-decoration: none;
+  width: 340px;
+  height: 400px;
+  margin: 50px 0px;
+  color: transparent;
+  background-color: #170c3b;
+  border: 2px solid black;
+  font-size: 44px;
+}
+.carpeta1
+{
+  background-image: url("img/web.png");
+}
+.carpeta2
+{
+  background-image: url("img/c.jpg");
+}
+.carpeta3
+{
+  background-image: url("img/java.jpg");
+}
+.carpeta4
+{
+  background-image: url("img/proximamente.png");
+}
+.carpeta:hover
+{
+  background-image: url();
+  color:rgb(255, 0, 0);
+  width:800px;
+  
+}
+
+.carpeta1 .a:hover
+{
+  color: aqua;
+}
+.carpeta2 .a:hover
+{
+  color: #259f0b;
+}
+.carpeta3 .a:hover
+{
+  color: yellow;
+}
+.carpeta4 .a:hover
+{
+  color: #555;
+}
+  
+ @media only screen and (max-width: 900px)
+{
+
+
+.imagenP
+{
+  margin-left: 0px;
+  width: 100%;
+}
+
+.carpeta
+{
+  font-size: 18px;
+}
+
+.carpeta:hover
+{
+  width:340px;
+  
+}
+ 
+ }
